@@ -5,27 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Tools+Explorer;Claude+%26+Gemini+Enthusiast;Full-Stack+Developer;Security+Researcher" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxcode917&label=VISITORS&color=0e75b6&style=flat" alt="maxcode917" />
-  <a href="https://reddit.com/user/maxcode917">
-    <img src="https://img.shields.io/badge/Follow%20on-Reddit-FF4500?style=flat&logo=reddit" alt="Reddit" />
-  </a>
-</p>
-
----
-
-## 🚀 Interactive Terminal
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Click%20here%20to%20open%20the%20live%20interactive%20terminal-2d2d2d?style=for-the-badge&logo=terminal&logoColor=white" alt="Interactive Terminal" />
-  </a>
-</p>
-
-<p align="center">
-  <code>Type: help · whoami · skills · projects · matrix</code>
-</p>
-
 ---
 
 ## 📊 3D Contribution Landscape
