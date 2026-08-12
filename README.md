@@ -2,7 +2,7 @@
 <h3 align="center">Crafting the Future, One Line at a Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Tools+Explorer;Claude+%26+Gemini+Enthusiast;Full-Stack+Developer;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Tools+Explorer;Claude+%26+Gemini+Enthusiast;Senior+Full-Stack+Developer;Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
