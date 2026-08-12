@@ -7,6 +7,24 @@
 
 ---
 
+## 🌍 Visitor Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&label=VISITORS" alt="Profile Views" />
+</p>
+
+### Top Visitors by Country
+| Country | Visitors |
+|---------|----------|
+| 🇺🇸 US | 95 |
+| 🇪🇺 EU | 1 |
+| 🇵🇰 PK | 1 |
+| 🇮🇶 IQ | 1 |
+| 🇻🇳 VN | 1 |
+
+**Total Pageviews: 243**
+
+---
 ## 📊 3D Contribution Landscape
 
 <p align="center">
