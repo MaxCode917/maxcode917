@@ -10,19 +10,19 @@
 ## 🌍 Visitor Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&label=VISITORS" alt="Profile Views" />
+  <!-- Your self-hosted visitor counter -->
+  <img src="https://<your-project>.deno.net/badge/maxcode917?label=VISITORS&color=blue" alt="Profile Views" />
+  <img src="https://<your-project>.deno.net/badge/maxcode917?type=unique&label=Unique+Visitors&color=purple" alt="Unique Visitors" />
+  <img src="https://<your-project>.deno.net/badge/maxcode917?type=daily&format=full&label=Today&color=green" alt="Today's Views" />
 </p>
 
-### Top Visitors by Country
-| Country | Visitors |
-|---------|----------|
-| 🇺🇸 US | 95 |
-| 🇪🇺 EU | 1 |
-| 🇵🇰 PK | 1 |
-| 🇮🇶 IQ | 1 |
-| 🇻🇳 VN | 1 |
+### Live Visitor Statistics
 
-**Total Pageviews: 243**
+| Metric | Value |
+|--------|-------|
+| 🔄 **Total Views** | ![Total Views](https://<your-project>.deno.net/badge/maxcode917?label=&color=blue) |
+| 👤 **Unique Visitors** | ![Unique Visitors](https://<your-project>.deno.net/badge/maxcode917?type=unique&label=&color=purple) |
+| 📅 **Today's Views** | ![Today](https://<your-project>.deno.net/badge/maxcode917?type=daily&format=full&label=&color=green) |
 
 ---
 ## 📊 3D Contribution Landscape
