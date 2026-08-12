@@ -7,18 +7,6 @@
 
 ---
 
-# Visitor Analytics
-
-## Live Visitor Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Total Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=blue" alt="Total Views" /> |
-| **Unique Visitors** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=blueviolet" alt="Unique Visitors" /> |
-| **Today's Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=green" alt="Today's Views" /> |
-
----
-
 ## 📊 3D Contribution Landscape
 
 <p align="center">
