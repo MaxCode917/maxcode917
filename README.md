@@ -63,19 +63,9 @@
 
 ### Language Breakdown
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcode917&show_icons=true&locale=en&layout=compact&theme=radical" alt="maxcode917" />
-</p>
-
 | JavaScript | Python | HTML | C++ | TypeScript | Other |
 |------------|--------|------|-----|------------|-------|
 | 40% | 25% | 15% | 10% | 7% | 3% |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxcode917&show_icons=true&count_private=true&theme=radical" alt="maxcode917" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxcode917&theme=radical" alt="maxcode917" />
-</p>
 
 ---
 
