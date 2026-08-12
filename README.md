@@ -7,19 +7,15 @@
 
 ---
 
-## 🌍 Visitor Analytics
+# Visitor Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxcode917&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-### Live Visitor Statistics
+## Live Visitor Statistics
 
 | Metric | Value |
 |--------|-------|
-| 🔄 **Total Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=blue" alt="Total Views" /> |
-| 👤 **Unique Visitors** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=purple" alt="Unique Visitors" /> |
-| 📅 **Today's Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=green" alt="Today's Views" /> |
+| **Total Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=blue" alt="Total Views" /> |
+| **Unique Visitors** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=blueviolet" alt="Unique Visitors" /> |
+| **Today's Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&label=&color=green" alt="Today's Views" /> |
 
 ---
 
