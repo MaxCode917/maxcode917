@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxcode0917&label=VISITORS&color=0e75b6&style=flat" alt="maxcode0917" />
-  <a href="https://reddit.com/user/maxcode0917">
+  <img src="https://komarev.com/ghpvc/?username=maxcode917&label=VISITORS&color=0e75b6&style=flat" alt="maxcode917" />
+  <a href="https://reddit.com/user/maxcode917">
     <img src="https://img.shields.io/badge/Follow%20on-Reddit-FF4500?style=flat&logo=reddit" alt="Reddit" />
   </a>
 </p>
@@ -31,7 +31,7 @@
 ## 📊 3D Contribution Landscape
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode0917&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode917&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ### Contribution Statistics
@@ -64,7 +64,7 @@
 ### Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcode0917&show_icons=true&locale=en&layout=compact&theme=radical" alt="maxcode0917" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcode917&show_icons=true&locale=en&layout=compact&theme=radical" alt="maxcode917" />
 </p>
 
 | JavaScript | Python | HTML | C++ | TypeScript | Other |
@@ -72,9 +72,9 @@
 | 40% | 25% | 15% | 10% | 7% | 3% |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxcode0917&show_icons=true&count_private=true&theme=radical" alt="maxcode0917" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxcode917&show_icons=true&count_private=true&theme=radical" alt="maxcode917" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxcode0917&theme=radical" alt="maxcode0917" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxcode917&theme=radical" alt="maxcode917" />
 </p>
 
 ---
@@ -280,7 +280,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://reddit.com/user/maxcode0917">
+  <a href="https://reddit.com/user/maxcode917">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   <a href="#">
@@ -298,7 +298,7 @@
 
 ## 📊 Live Metrics
 
-![Metrics](https://metrics.lecoq.io/maxcode0917?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&config.timezone=Asia%2FSaigon)
+![Metrics](https://metrics.lecoq.io/maxcode917?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&config.timezone=Asia%2FSaigon)
 
 ---
 
@@ -311,7 +311,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxcode0917/maxcode0917/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/maxcode917/maxcode917/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -322,7 +322,7 @@
 
 1. **Create your profile repository:**
    - Go to: https://github.com/new
-   - Repository name: `maxcode0917`
+   - Repository name: `maxcode917`
    - Description: "My GitHub Profile"
    - Make it **Public** ✅
    - ✅ Check "Add a README file"
@@ -335,7 +335,7 @@
    - **Copy and paste** the entire README content above
    - Click **"Commit changes"**
 
-3. **Done!** Visit: https://github.com/maxcode0917
+3. **Done!** Visit: https://github.com/maxcode917
 
 ---
 
@@ -345,8 +345,8 @@
 # 1. Create the repo on GitHub first (via web)
 
 # 2. Clone to your computer
-git clone https://github.com/maxcode0917/maxcode0917.git
-cd maxcode0917
+git clone https://github.com/maxcode917/maxcode917.git
+cd maxcode917
 
 # 3. Create README.md with the content
 # Copy the README content above into a file named README.md
@@ -361,7 +361,7 @@ git push origin main
 
 ## 🎨 Customization Checklist
 
-- [ ] **Repository name:** maxcode0917 (exact match)
+- [ ] **Repository name:** maxcode917 (exact match)
 - [ ] **Public repository** ✅
 - [ ] **README.md** with content above
 - [ ] Replace social media links with your actual profiles
@@ -388,7 +388,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: maxcode0917
+          github_user_name: maxcode917
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -406,12 +406,12 @@ jobs:
 
 | Feature | Link |
 |---------|------|
-| **Your Profile** | https://github.com/maxcode0917 |
-| **Stats Card** | https://github-readme-stats.vercel.app/api?username=maxcode0917 |
-| **Top Languages** | https://github-readme-stats.vercel.app/api/top-langs?username=maxcode0917 |
-| **Streak Stats** | https://github-readme-streak-stats.herokuapp.com/?user=maxcode0917 |
-| **Activity Graph** | https://github-readme-activity-graph.vercel.app/graph?username=maxcode0917 |
-| **Visitor Counter** | https://komarev.com/ghpvc/?username=maxcode0917 |
+| **Your Profile** | https://github.com/maxcode917 |
+| **Stats Card** | https://github-readme-stats.vercel.app/api?username=maxcode917 |
+| **Top Languages** | https://github-readme-stats.vercel.app/api/top-langs?username=maxcode917 |
+| **Streak Stats** | https://github-readme-streak-stats.herokuapp.com/?user=maxcode917 |
+| **Activity Graph** | https://github-readme-activity-graph.vercel.app/graph?username=maxcode917 |
+| **Visitor Counter** | https://komarev.com/ghpvc/?username=maxcode917 |
 
 ---
 
@@ -432,4 +432,4 @@ jobs:
 
 ---
 
-That's it! Your GitHub profile README is ready. Everything is customized for **maxcode0917**. The profile will automatically show your GitHub stats, contribution graph, and visitor count once you set it up. Good luck! 🚀
+That's it! Your GitHub profile README is ready. Everything is customized for **maxcode917**. The profile will automatically show your GitHub stats, contribution graph, and visitor count once you set it up. Good luck! 🚀
