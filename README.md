@@ -139,70 +139,68 @@
 
 ## 🧠 Mind Architecture
 
-### Backend & Data
-```
-📦 Pydantic Models
-🔄 Async REST APIs
-⚡ FastAPI
-🗄️ PostgreSQL / SQLite / MongoDB
-📊 Document Store
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Backend & Data</h3>
+      <ul>
+        <li>Pydantic Models</li>
+        <li>Async REST APIs</li>
+        <li>FastAPI</li>
+        <li>PostgreSQL / SQLite / MongoDB</li>
+        <li>Document Store</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💾 Caching & Queues</h3>
+      <ul>
+        <li>Redis</li>
+        <li>BullMQ</li>
+        <li>Local Dev Stack (Laragon)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Auth & Realtime</h3>
+      <ul>
+        <li>Supabase</li>
+        <li>Firebase</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Architecture</h3>
+      <ul>
+        <li>Component Design (SSR/ISR)</li>
+        <li>File-based Routing</li>
+        <li>UI/UX Design</li>
+        <li>Next.js / Nuxt</li>
+        <li>Tailwind / SCSS</li>
+        <li>Astro / Remix</li>
+        <li>Vue.js (Composition API)</li>
+        <li>UI Consistency (SSI/CSS)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Infrastructure & DevOps</h3>
+      <ul>
+        <li>CI/CD</li>
+        <li>Performance Optimization</li>
+        <li>Infrastructure Management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Engineering</h3>
+      <ul>
+        <li>LLM Integration (ChatGPT/Claude/Gemini)</li>
+        <li>Inference Systems</li>
+        <li>Prompt/Workflow Design</li>
+        <li>Groq / DeepSeek</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Caching & Queues
-```
-💾 Redis
-📨 BullMQ
-🏗️ Local Dev Stack (Laragon)
-```
-
-### Auth & Realtime
-```
-🔐 Supabase
-🔥 Firebase
-```
-
-### Frontend Architecture
-```
-🎨 Component Design (SSR/ISR)
-📁 File-based Routing
-🎯 UI/UX Design
-⚡ Next.js / Nuxt
-🎨 Tailwind / SCSS
-🚀 Astro / Remix
-💚 Vue.js (Composition API)
-🎯 UI Consistency (SSI/CSS)
-```
-
-### Infrastructure & DevOps
-```
-🔄 CI/CD
-⚡ Performance Optimization
-🏗️ Infrastructure Management
-```
-
-### AI Engineering
-```
-🤖 LLM Integration (ChatGPT/Claude/Gemini)
-🧠 Inference Systems
-📝 Prompt/Workflow Design
-⚡ Groq / DeepSeek
-```
-
-### Systems
-```
-⚙️ PHP Backend
-🏗️ Server Architecture
-💾 Memory & Pointers
-📚 STL & Templates
-```
-
-### Security Focus
-```
-🛡️ AI/LLM Security
-🔒 Prompt Injection Prevention
-🎯 AI Red Teaming
-🤖 Autonomous Security Agents
-📊 Threat Intelligence Automation
-🔍 Detection Engineering
-🟣 Purple Team Methodologies
-```
+---
