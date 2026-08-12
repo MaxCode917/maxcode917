@@ -137,11 +137,9 @@
 
 ---
 
-## 🧠 Mind Architecture
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>📦 Backend & Data</h3>
       <ul>
         <li>Pydantic Models</li>
@@ -150,25 +148,14 @@
         <li>PostgreSQL / SQLite / MongoDB</li>
         <li>Document Store</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💾 Caching & Queues</h3>
-      <ul>
-        <li>Redis</li>
-        <li>BullMQ</li>
-        <li>Local Dev Stack (Laragon)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <br />
       <h3>🔐 Auth & Realtime</h3>
       <ul>
         <li>Supabase</li>
         <li>Firebase</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🎨 Frontend Architecture</h3>
       <ul>
         <li>Component Design (SSR/ISR)</li>
@@ -180,24 +167,28 @@
         <li>Vue.js (Composition API)</li>
         <li>UI Consistency (SSI/CSS)</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔄 Infrastructure & DevOps</h3>
+      <br />
+      <h3>💾 Caching & Queues</h3>
       <ul>
-        <li>CI/CD</li>
-        <li>Performance Optimization</li>
-        <li>Infrastructure Management</li>
+        <li>Redis</li>
+        <li>BullMQ</li>
+        <li>Local Dev Stack (Laragon)</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🤖 AI Engineering</h3>
       <ul>
         <li>LLM Integration (ChatGPT/Claude/Gemini)</li>
         <li>Inference Systems</li>
         <li>Prompt/Workflow Design</li>
         <li>Groq / DeepSeek</li>
+      </ul>
+      <br />
+      <h3>🔄 Infrastructure & DevOps</h3>
+      <ul>
+        <li>CI/CD</li>
+        <li>Performance Optimization</li>
+        <li>Infrastructure Management</li>
       </ul>
     </td>
   </tr>
