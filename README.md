@@ -10,21 +10,20 @@
 ## 🌍 Visitor Analytics
 
 <p align="center">
-  <!-- Your self-hosted visitor counter -->
-  <img src="https://<your-project>.deno.net/badge/maxcode917?label=VISITORS&color=blue" alt="Profile Views" />
-  <img src="https://<your-project>.deno.net/badge/maxcode917?type=unique&label=Unique+Visitors&color=purple" alt="Unique Visitors" />
-  <img src="https://<your-project>.deno.net/badge/maxcode917?type=daily&format=full&label=Today&color=green" alt="Today's Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917" alt="Total Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917.unique" alt="Unique Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917.today" alt="Today's Views" />
 </p>
 
 ### Live Visitor Statistics
 
 | Metric | Value |
 |--------|-------|
-| 🔄 **Total Views** | ![Total Views](https://<your-project>.deno.net/badge/maxcode917?label=&color=blue) |
-| 👤 **Unique Visitors** | ![Unique Visitors](https://<your-project>.deno.net/badge/maxcode917?type=unique&label=&color=purple) |
-| 📅 **Today's Views** | ![Today](https://<your-project>.deno.net/badge/maxcode917?type=daily&format=full&label=&color=green) |
+| 🔄 **Total Views** | ![Total Views](https://visitor-badge.laobi.icu/badge?page_id=maxcode917&label=) |
+| 👤 **Unique Visitors** | ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=maxcode917.unique&label=) |
+| 📅 **Today's Views** | ![Today](https://visitor-badge.laobi.icu/badge?page_id=maxcode917.today&label=) |
 
----
+
 ## 📊 3D Contribution Landscape
 
 <p align="center">
