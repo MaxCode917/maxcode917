@@ -10,19 +10,18 @@
 ## 🌍 Visitor Analytics
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917" alt="Total Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917.unique" alt="Unique Visitors" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxcode917.today" alt="Today's Views" />
+  <img src="https://komarev.com/ghpvc/?username=maxcode917&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ### Live Visitor Statistics
 
 | Metric | Value |
 |--------|-------|
-| 🔄 **Total Views** | ![Total Views](https://visitor-badge.laobi.icu/badge?page_id=maxcode917&label=) |
-| 👤 **Unique Visitors** | ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=maxcode917.unique&label=) |
-| 📅 **Today's Views** | ![Today](https://visitor-badge.laobi.icu/badge?page_id=maxcode917.today&label=) |
+| 🔄 **Total Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=blue" alt="Total Views" /> |
+| 👤 **Unique Visitors** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=purple" alt="Unique Visitors" /> |
+| 📅 **Today's Views** | <img src="https://komarev.com/ghpvc/?username=maxcode917&style=flat-square&color=green" alt="Today's Views" /> |
 
+---
 
 ## 📊 3D Contribution Landscape
 
