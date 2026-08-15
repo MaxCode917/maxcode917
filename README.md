@@ -13,39 +13,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode917&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
-### Contribution Statistics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>📝 Commits</strong><br />
-      <img src="https://img.shields.io/badge/10K+-green?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>📦 Repositories</strong><br />
-      <img src="https://img.shields.io/badge/50+-blue?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>🐛 Issues</strong><br />
-      <img src="https://img.shields.io/badge/100+-orange?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>👀 Reviews</strong><br />
-      <img src="https://img.shields.io/badge/50+-purple?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>🔀 Pull Requests</strong><br />
-      <img src="https://img.shields.io/badge/100+-yellow?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-### Language Breakdown
-
-| JavaScript | Python | HTML | C++ | TypeScript | Other |
-|------------|--------|------|-----|------------|-------|
-| 40% | 25% | 15% | 10% | 7% | 3% |
-
 ---
 # ⚔️ All Of My Skills
 
