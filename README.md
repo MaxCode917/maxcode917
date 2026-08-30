@@ -10,9 +10,12 @@
 ## 📊 3D Contribution Landscape
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode917&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode917&theme=react-dark&bg_color=20232a&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
-
 ---
 # ⚔️ All Of My Skills
 
