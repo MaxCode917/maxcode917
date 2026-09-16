@@ -7,15 +7,19 @@
 
 ---
 
-## 📊 3D Contribution Landscape
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maxcode917&theme=react-dark&bg_color=20232a&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
+<div align="center">
+
+<img src="./ai-hero.svg" width="100%" />
+
+</div>
+
+</div>
+
+<div align="center">
+
+  
 ---
 # ⚔️ All Of My Skills
 
